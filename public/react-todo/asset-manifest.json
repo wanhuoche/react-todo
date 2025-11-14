@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wanhuoche/react-todo/static/css/main.b6344795.css",
+    "main.js": "/wanhuoche/react-todo/static/js/main.57cc7351.js",
+    "static/js/453.b5baf7de.chunk.js": "/wanhuoche/react-todo/static/js/453.b5baf7de.chunk.js",
+    "index.html": "/wanhuoche/react-todo/index.html",
+    "main.b6344795.css.map": "/wanhuoche/react-todo/static/css/main.b6344795.css.map",
+    "main.57cc7351.js.map": "/wanhuoche/react-todo/static/js/main.57cc7351.js.map",
+    "453.b5baf7de.chunk.js.map": "/wanhuoche/react-todo/static/js/453.b5baf7de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6344795.css",
+    "static/js/main.57cc7351.js"
+  ]
+}
